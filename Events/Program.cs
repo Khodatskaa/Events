@@ -13,7 +13,7 @@
     {
         static void Main()
         {
-            string text = "This is a sample sentence with several words.";
+            string text = "Big red panda is climbing the tree.";
             int wordCount = text.WordCount();
             Console.WriteLine($"Number of words in the text: {wordCount}");
 
